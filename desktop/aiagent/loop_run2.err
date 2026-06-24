@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\agent-s2-example\desktop\aiagent\main.py:169: DeprecationWarning: mss.mss is deprecated and will be removed in a future release; use mss.MSS instead
+  with mss.mss() as sct:
